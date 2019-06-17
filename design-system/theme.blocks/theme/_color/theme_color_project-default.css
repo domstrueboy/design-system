@@ -1,0 +1,11 @@
+.theme_color_project-default {
+
+  --default-background: #FFFFFF;
+  --accent-background: #0056B3;
+  --border-background: #000000;
+
+  --major-color: #000000;
+  --minor-color: rgba(0, 0, 0, 0.6);
+  --additional-color: rgba(0, 0, 0, 0.3); 
+  --links-color: #0070f0;
+}
