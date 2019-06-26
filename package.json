@@ -1,0 +1,30 @@
+{
+  "name": "design-system",
+  "version": "0.0.1",
+  "description": "Testing task for Interfaces' Design School of Yandex",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domstrueboy/design-system.git"
+  },
+  "keywords": [
+    "Yandex",
+    "ШРИ",
+    "design",
+    "system"
+  ],
+  "author": "Pavel Bobylyov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domstrueboy/design-system/issues"
+  },
+  "homepage": "https://github.com/domstrueboy/design-system#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "http-server": "^0.11.1"
+  }
+}
