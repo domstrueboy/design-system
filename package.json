@@ -4,6 +4,7 @@
   "description": "Testing task for Interfaces' Design School of Yandex",
   "main": "index.html",
   "scripts": {
+    "build": "webpack",
     "start": "http-server",
     "test": "test"
   },
@@ -25,6 +26,8 @@
   "homepage": "https://github.com/domstrueboy/design-system#readme",
   "devDependencies": {
     "eslint": "^6.0.1",
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.1",
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
   }
 }
