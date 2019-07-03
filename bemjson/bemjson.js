@@ -1,14 +1,14 @@
 export default {
-  block: 'my-block',
+  block: 'parent-block',
   mix: [
     {
-      block: 'other-block',
+      block: 'another-block',
       mods: {
         'mod-name': 'mod-value',
       }
     },
     {
-      block: 'other-block',
+      block: 'yet-another-block',
       elem: 'second-elem',
       elemMods: {
         'elem-mod-name': 'elem-mod-value',
@@ -16,7 +16,7 @@ export default {
     },
   ],
   content: {
-    block: 'my-block',
+    block: 'child-block',
     elem: 'my-block-element',
   }
 };
